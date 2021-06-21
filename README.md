@@ -2,6 +2,12 @@
 
 I currently working as a Senior Geospatial Consultant for [Arup, Dublin](https://www.arup.com/offices/ireland/dublin).
 
+### Education
+
+* PgDip Data Science (2019)
+* PgDip Geographical Information Systems (2014)
+* BSc Environmental Planning (2013)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on data science projects with an emphasis on spatial analysis.
