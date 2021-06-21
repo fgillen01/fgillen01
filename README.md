@@ -1,3 +1,7 @@
+## Finbar Gillen
+
+I currently working as a Senior Geospatial Consultant for [Arup, Dublin](https://www.arup.com/offices/ireland/dublin).
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on data science projects with an emphasis on spatial analysis.
